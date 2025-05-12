@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881802415403",
+    "project_id": "campus-explorer-33cfb",
+    "storage_bucket": "campus-explorer-33cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881802415403:android:9cfb650bcdae0d9436c96e",
+        "android_client_info": {
+          "package_name": "com.mycompany.campusexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblbh3_IUQkQpz-dvPT9K4aoP5Bn-Cz7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
